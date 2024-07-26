@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #notice-board {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .widget {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
